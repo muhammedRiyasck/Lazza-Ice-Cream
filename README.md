@@ -1,1 +1,2 @@
-https://github.com/muhammedRiyasck/Lazza-Ice-Cream.git
+https://muhammedriyasck.github.io/Lazza-Ice-Cream/
+
